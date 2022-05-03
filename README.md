@@ -1,5 +1,5 @@
 # juggieray.github.io
 
-##Website in the making
+## Website in the making
 
-###Will be done during the Summer of 2022.
+### Will be done during the Summer of 2022.
